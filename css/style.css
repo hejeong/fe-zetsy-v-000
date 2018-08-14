@@ -81,6 +81,11 @@ header {
 	display: block;
 	background: #fff;
 	z-index: 1;
+	text-decoration: none;
+}
+
+header a:hover {
+	
 }
 
 h2 {
