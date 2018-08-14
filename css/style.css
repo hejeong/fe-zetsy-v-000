@@ -86,8 +86,9 @@ header {
 header a {
 	text-decoration: none;
 }
-header a:hover {
 
+header a:hover {
+	color: #e0ebeb;
 }
 
 h2 {
