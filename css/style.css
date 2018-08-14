@@ -62,6 +62,10 @@ h1 {
 	border: 5px #ccc solid;
 }
 
+.col-1:hover {
+	border-color: #669;
+}
+
 footer {
 	position: relative;
 	font-size: 10px;
