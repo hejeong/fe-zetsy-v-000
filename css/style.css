@@ -92,3 +92,7 @@ h2 {
 	text-decoration: none;
 	color: #1783bb;
 }
+
+#about p a:hover {
+	color: #004d99;
+}
