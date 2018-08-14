@@ -85,7 +85,7 @@ header {
 
 header a {
 	text-decoration: none;
-	color:inherit;
+	color: inherit;
 }
 
 header a:hover {
