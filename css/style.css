@@ -95,6 +95,6 @@ h2 {
 
 #about p a:hover {
 	color: #004d99;
-	transition: font-weight 0.5s ease;
-		font-weight: bold;
+	transition: 0.5s ease;
+	font-weight: bold;
 }
